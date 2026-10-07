@@ -1,46 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-labelledby="title desc">
-  <title id="title">André Guilherme — Automação, dados e aplicações</title>
-  <desc id="desc">Banner azul escuro com detalhes em verde e lilás, ilustrando conexões entre automação, dados e aplicações.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Eu faço armengue.</title>
+  <desc id="desc">Um caderno de oficina: fundo escuro, letras claras, rabiscos laranja e um bilhete amarelo escrito resolvendo.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#101827"/><stop offset="1" stop-color="#17233c"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#6ee7b7"/><stop offset="1" stop-color="#a5a0ff"/>
-    </linearGradient>
-    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
-      <path d="M32 0H0V32" fill="none" stroke="#a5b4d0" stroke-opacity=".06"/>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse">
+      <path d="M28 0H0V28" fill="none" stroke="#f5ede0" stroke-opacity=".055"/>
     </pattern>
   </defs>
-  <rect width="1200" height="330" rx="18" fill="url(#background)"/>
-  <rect width="1200" height="330" rx="18" fill="url(#grid)"/>
-  <rect x="48" y="45" width="34" height="4" rx="2" fill="#6ee7b7"/>
-  <text x="96" y="51" font-family="Arial, sans-serif" font-size="13" font-weight="700" letter-spacing="3" fill="#aebdd4">AUTOMAÇÃO / DADOS / APLICAÇÕES</text>
-  <text x="48" y="126" font-family="Arial, sans-serif" font-size="51" font-weight="700" letter-spacing="-1.5" fill="#f5f7fc">André Guilherme</text>
-  <text x="50" y="164" font-family="Arial, sans-serif" font-size="21" fill="#c4d0e3">Da rotina manual ao software que resolve.</text>
-  <rect x="50" y="200" width="558" height="1" fill="#35445e"/>
-  <g font-family="Arial, sans-serif" font-size="14" fill="#d7e0ee">
-    <text x="50" y="239">Python</text><text x="125" y="239">TypeScript</text><text x="232" y="239">PHP</text><text x="291" y="239">SQL</text>
-  </g>
-  <g fill="#6ee7b7"><circle cx="111" cy="234" r="2"/><circle cx="216" cy="234" r="2"/><circle cx="277" cy="234" r="2"/></g>
-  <text x="50" y="291" font-family="monospace" font-size="12" letter-spacing="1.2" fill="#8395b3">PROCESSO → DADOS → SOLUÇÃO</text>
-  <g fill="none" stroke="url(#accent)" stroke-width="2" opacity=".75">
-    <path d="M821 97H854Q871 97 871 114V149H944"/>
-    <path d="M821 249H854Q871 249 871 232V197H944"/>
-    <path d="M944 173H1135" stroke-dasharray="5 7"/>
-  </g>
+  <rect width="1200" height="300" rx="16" fill="#202320"/>
+  <rect width="1200" height="300" rx="16" fill="url(#grid)"/>
   <g font-family="Arial, sans-serif">
-    <rect x="703" y="61" width="118" height="72" rx="12" fill="#1a2a3b" stroke="#39556a"/>
-    <text x="719" y="88" font-size="11" fill="#6ee7b7" letter-spacing="1">01</text>
-    <text x="719" y="113" font-size="14" fill="#e0eaf7">Automação</text>
-    <rect x="703" y="213" width="118" height="72" rx="12" fill="#1a2a3b" stroke="#39556a"/>
-    <text x="719" y="240" font-size="11" fill="#6ee7b7" letter-spacing="1">02</text>
-    <text x="719" y="265" font-size="14" fill="#e0eaf7">Dados</text>
-    <rect x="944" y="128" width="176" height="92" rx="14" fill="#242b48" stroke="#7674aa"/>
-    <text x="965" y="157" font-size="11" fill="#bcb5ff" letter-spacing="1">03 / BUILD</text>
-    <text x="965" y="188" font-size="20" font-weight="700" fill="#f5f7fc">Aplicações</text>
+    <text x="52" y="52" font-size="15" fill="#acaea4">André Guilherme</text>
+    <text x="48" y="135" font-size="66" font-weight="700" letter-spacing="-2" fill="#f7f1e6">Eu faço armengue.</text>
+    <path d="M51 152Q267 164 608 150" fill="none" stroke="#f4a35a" stroke-width="5" stroke-linecap="round"/>
+    <text x="52" y="203" font-size="24" fill="#d4d3c7">Resolvo o problema e vou ajeitando o caminho.</text>
+    <text x="52" y="260" font-size="15" fill="#a5a99e">scripts · bots · painéis · e o que mais precisar</text>
   </g>
-  <circle cx="871" cy="173" r="6" fill="#6ee7b7"/>
-  <circle cx="1135" cy="173" r="4" fill="#b6adff"/>
-  <rect x="48" y="326" width="1104" height="4" rx="2" fill="url(#accent)"/>
+  <g transform="translate(878 65) rotate(5 112 82)">
+    <rect width="226" height="165" rx="3" fill="#edcf77"/>
+    <rect x="68" y="-12" width="88" height="26" transform="rotate(-8 112 1)" fill="#f3ede0" opacity=".72"/>
+    <g font-family="monospace" fill="#373629">
+      <text x="24" y="45" font-size="15">status:</text>
+      <text x="22" y="82" font-size="24" font-weight="700">resolvendo.</text>
+      <path d="M24 104H197" stroke="#75663f" stroke-width="1" opacity=".5"/>
+      <text x="24" y="134" font-size="13">um ajuste por vez</text>
+    </g>
+  </g>
+  <path d="M758 134Q804 109 846 134M830 119L847 134L827 141" fill="none" stroke="#f4a35a" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
