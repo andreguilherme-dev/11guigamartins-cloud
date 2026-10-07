@@ -8,6 +8,12 @@ Se eu tenho que fazer a mesma coisa toda hora, começo a procurar um jeito de n�
 
 Aqui tem um pouco disso: **automação pra tarefa chata, painel pra entender a bagunça e umas ideias que acabaram virando projeto.**
 
+### 🏀 Meu foco agora: Hoops Manager
+
+Meu projeto atual é o **Hoops Manager**, um jogo de gestão de basquete que estou preparando para lançar na **Steam**.
+
+É onde estou colocando mais tempo e energia agora. O projeto tem código fechado, e as novidades ficam no **[hoopsmanager.com.br](https://hoopsmanager.com.br)**.
+
 ### Alguns armengues da casa
 
 | O que saiu | Pra que serve |
