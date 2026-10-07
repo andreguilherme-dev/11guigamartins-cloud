@@ -12,6 +12,8 @@ Aqui tem um pouco disso: **automação pra tarefa chata, painel pra entender a b
 
 Meu projeto atual é o **Hoops Manager**, um jogo de gestão de basquete que estou preparando para lançar na **Steam**.
 
+É um manager pra PC, em português: montar elenco, ajustar táticas, negociar jogadores e acompanhar draft e temporadas.
+
 É onde estou colocando mais tempo e energia agora. O projeto tem código fechado, e as novidades ficam no **[hoopsmanager.com.br](https://hoopsmanager.com.br)**.
 
 ### Alguns armengues da casa
